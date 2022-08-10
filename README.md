@@ -13,7 +13,7 @@
 * AlexNet
     * [理论基础](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/AlexNet)
     * [代码]()
-* [混淆矩阵 ](https://github.com/MorvanLi/deepLearningTutorial/tree/main/confusion_matrix)
-    * [理论基础](https://github.com/MorvanLi/deepLearningTutorial/blob/main/confusion_matrix/confusion.pdf)
-    * [代码](https://github.com/MorvanLi/deepLearningTutorial/blob/main/confusion_matrix/confusion_matrix.py)
+* [混淆矩阵 ](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/confusion_matrix)
+    * [理论基础](https://github.com/MorvanLi/deepLearningTutorial/blob/main/classification/confusion_matrix/confusion.pdf)
+    * [代码](https://github.com/MorvanLi/deepLearningTutorial/blob/main/classification/confusion_matrix/confusion_matrix.py)
 
