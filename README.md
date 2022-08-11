@@ -8,11 +8,17 @@
 </div>
 
 
-# 📝 图形分类
+# 📝 图像分类
 
 * AlexNet
     * [理论基础](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/AlexNet)
-    * [代码]()
+    * [代码](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/AlexNet)
+* vggNet
+    * [理论基础](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/vggNet)
+    * [代码](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/vggNet)
+* 权重分布和特征图
+    * [代码](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/analyze_weights_featuremap)
+
 * [混淆矩阵 ](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/confusion_matrix)
     * [理论基础](https://github.com/MorvanLi/deepLearningTutorial/blob/main/classification/confusion_matrix/confusion.pdf)
     * [代码](https://github.com/MorvanLi/deepLearningTutorial/blob/main/classification/confusion_matrix/confusion_matrix.py)
