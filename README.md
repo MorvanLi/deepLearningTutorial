@@ -19,8 +19,8 @@
     * [视频](https://www.bilibili.com/video/BV1q7411T7Y6?spm_id_from=333.999.0.0)
     * [理论基础](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/vggNet)
     * [代码](https://github.com/MorvanLi/deepLearningTutorial/tree/main/classification/vggNet)
-* googleNet
-    * [视频](【5.1 GoogLeNet网络详解】 https://www.bilibili.com/video/BV1z7411T7ie?share_source=copy_web&vd_source=a2b85e5f28889dfc6fb39ab0d5c221d2)
+* googleNet（Inception）
+    * [视频](https://www.bilibili.com/video/BV1z7411T7ie?share_source=copy_web&vd_source=a2b85e5f28889dfc6fb39ab0d5c221d2)
     * [理论基础](https://github.com/MorvanLi/deepLearningTutorial/blob/main/classification/GoogleNet/googlenet.pdf)
     * [代码](https://github.com/MorvanLi/deepLearningTutorial/blob/main/classification/GoogleNet/model.py)
 
